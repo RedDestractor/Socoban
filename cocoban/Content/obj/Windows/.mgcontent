@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/box.png</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/player.png</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/tile.png</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/File.spritefont</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/grass.jpg</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/hole.jpg</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/cantina.mp3</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/ghost.mp3</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/love.mp3</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/sw.mp3</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/tetris.mp3</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/win.mp3</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/nirvana.mp3</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/Controls/button-off.png</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/Controls/button-on.png</File>
+    <File>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/Controls/dialog.png</File>
+  </SourceFiles>
+</SourceFileCollection>

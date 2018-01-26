@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/cantina.mp3</SourceFile>
+  <SourceTime>2017-11-19T01:47:03.7483346+07:00</SourceTime>
+  <DestFile>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/bin/Windows/cantina.xnb</DestFile>
+  <DestTime>2017-11-20T19:32:54.0378215+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T22:05:36+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T22:05:36+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Misha&amp;Olya/source/repos/cocobanOOPFinal/cocoban/Content/bin/Windows/cantina.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
